@@ -1,0 +1,18 @@
+c:\users\brian john\documents\visual studio 2017\Projects\ATM\ATM\bin\Debug\ATM.exe.config
+c:\users\brian john\documents\visual studio 2017\Projects\ATM\ATM\bin\Debug\ATM.exe
+c:\users\brian john\documents\visual studio 2017\Projects\ATM\ATM\bin\Debug\ATM.pdb
+c:\users\brian john\documents\visual studio 2017\Projects\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+c:\users\brian john\documents\visual studio 2017\Projects\ATM\ATM\obj\Debug\ATM.Form1.resources
+c:\users\brian john\documents\visual studio 2017\Projects\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+c:\users\brian john\documents\visual studio 2017\Projects\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+c:\users\brian john\documents\visual studio 2017\Projects\ATM\ATM\obj\Debug\ATM.exe
+c:\users\brian john\documents\visual studio 2017\Projects\ATM\ATM\obj\Debug\ATM.pdb
+D:\projects\ATM\ATM\bin\Debug\ATM.exe.config
+D:\projects\ATM\ATM\bin\Debug\ATM.exe
+D:\projects\ATM\ATM\bin\Debug\ATM.pdb
+D:\projects\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+D:\projects\ATM\ATM\obj\Debug\ATM.Form1.resources
+D:\projects\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+D:\projects\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+D:\projects\ATM\ATM\obj\Debug\ATM.exe
+D:\projects\ATM\ATM\obj\Debug\ATM.pdb
